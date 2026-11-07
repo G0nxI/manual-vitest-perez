@@ -1,3 +1,12 @@
+> [!NOTE]
+> **Estado: Proyecto académico finalizado y archivado**
+>
+> Este repositorio corresponde a una práctica de la asignatura de Programación, destinada al aprendizaje y la aplicación inicial de pruebas automatizadas mediante Vitest.
+>
+> El trabajo se conserva como material educativo y referencia de aprendizaje.
+>
+> No se prevén nuevas actualizaciones ni mantenimiento activo. El código y la documentación permanecen disponibles para su consulta y descarga.
+
 # Manual introductorio de Vitest
 
 Autor: G0nxI.
